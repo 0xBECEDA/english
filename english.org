@@ -1,0 +1,230 @@
+* Grammar
+
+** Как построить вопрос в английском языке?
+
+1. Определи время, в котором строишь вопрос
+2. Смысловой глагол есть?
+
+ДА!
+3. Определи вспомогательный глагол для этого времени(do, to be, have)
+4. Следуй схеме:
+Вспомогательный глагол -> подлежащее -> cмысловой глагол -> все остальное?
+
+Do you like read books?
+Have you been at school?
+Is it raining outside?
+
+Если есть вопросительное слово, оно пойдет в самое начало вопроса, а
+потом опять по старой схеме:
+
+Where have you been?
+How did you pass exam?
+
+
+Смыслового глагола НЕТ!
+
+Это значит, что в утвердительном предложении используется глагол только
+to be, поскольку предложение в без сказуемого построить нельзя.
+
+В этом случае наша схема незначительно меняется:
+
+Глагол to be -> подлежащее -> все остальное?
+
+Are you okay?
+Is it hot?
+Was you at home?
+
+Если есть вопросительное слово, оно просто уйдет в начало:
+
+What is your name?
+How old are you?
+
+На этом премудрости построения вопроса заканчиваются. Компоненты
+всегда одни и те же, меняются только времена.
+
+** Present Simple
+
+Действие происходит регулярно, часто, постоянно.
+Особенность: в третьем лице единственном числе к глаголу
+добавляется "s" (he reads, she reads, it reads). Для простороения
+вопроса или отрицания, используется вспомогательный глагол do.
+
+Функция вспомогательных глаголов следует из названия: они помогают,
+забирая на себя временную нагрузку. В случае с Present Simple
+do заберет себе -s, если она есть у смыслового глагола:
+
+He watchs  TV every evening -> He does not watch TV every evening
+
+При построении вопроса вспомогательный глагол уйдет в начало:
+
+Does he not watch TV every evening?
+
+Do you like sport?
+What is your name?
+
+** Present Continuous
+
+Действие происходит в какой-то отрезок времени, происходит какой-то
+процесс.
+
+Строится: to be + глагол + ing
+
+Утверждение:
+I am watching the film.
+
+Вопрос:
+Is he watching the film?
+
+Отрицание:
+They are not watching the film.
+
+ВАЖНО!
+Устойчивая конструкция to be + planing/going to + инфинитив глагола.
+Обозначает намерение.
+
+I am planning to watch the film tomorrow -> Я собираюсь посмотреть
+фильм завтра.
+
+** Past Simple
+
+Действие, совершившееся в прошлом.
+Строится:
+Смысловой глагол правильный?
+-да! Тогда к глаголу добавится ed (watched, helped etc.)
+- нет! Тогда употребляем собственнуб вторую форму глагола:
+(see->sow, go -> went etc)
+
+Для построения отрицания или вопроса используется вспомогательный
+глагол do. Раз он помогает, то забирает на себя временную нагрузку:
+становится did.
+
+Утверждение:
+I watched TV at the evening.
+I went with my dog two hours ago.
+
+Вопрос:
+Did he went with my dog two hours ago?
+
+Отрицание:
+I did not watch TV at the evening.
+
+ВАЖНО!
+Если действие повторялось в прошлом неоднократно, используется
+устойчивая конструкция used to + смысловой глагол.
+
+I used to wake up at 5 o'clock -> Я привык просыпаться/просыпался в
+пять часов.
+
+** Past Continuous
+
+Отличается от Present Continuous только тем, что процесс происходит в
+прошлом. Раз есть вспомогательный глагол to be, он заберет на себя всю
+временную нагрузку: станет was/were (were для множественного числа)
+
+Утверждение:
+I was watching the film.
+
+Вопрос:
+Was he watching the film?
+
+Отрицание:
+They were not watching the film.
+
+
+** Present Perfect Simple
+
+Только миг между прошлым и будущим...
+
+В нашем случае, это миг между прошлым и настоящим.
+Действие произошло так недавно в прошлом, что имеет наипрямейшее
+отношение к настоящему.
+
+Строится: have/has + глагол в третьей форме
+Если глагол правильный, к нему добавится ed, если нет - вспоминаем его
+третью форму.
+
+Причем тут has?!
+
+Все дело в том, что перфектов много. Нам как-то надо показать, что это
+именно present perfect, вот мы и оставили фишечку present simple: к
+вспомогаетльному глаголу в третьем лице единственном числе добавили
+-s. Так получился has.
+
+- Where is my dog?
+- I have seen him in the garden.
+
+- Has he watched this film?
+- No, he has not watched it.
+
+
+** Упраженения 1
+
+Past Simple
+
+Построить утвердительное, отрицательное и вопросительное
+предложение:
+
+1. I (to do) morning exercises.
+2. He (to work) at a factory.
+3. She (to sleep) after dinner.
+4. We (to work) part-time.
+5. They (to drink) tea every day.
+6. Mike (to be) a student.
+7. Helen (to have) a car.
+8. You (to be) a good friend.
+9. You (to be) good friends.
+10. It (to be) difficult to remember everything.
+
+Past Continuous
+Построить предлоежения в Past Continuous:
+
+1. Around me people (to talk) Russian, Italian and English.
+2. Arnold (to talk) to some of the other guests on the terrace when
+   Hardy came.
+3. Alex (to look) at his watch.
+4. All night long the stars (to glitter).
+5. Elizabeth (to eat) and didn’t raise her head.
+6. He drank some of the wine and ate several chunks of bread while he
+   (to wait) for his dinner to come up.
+7. The family (to prepare) for the party.
+8. She (to argue) that only Belinda knew how to treat men.
+9. A few minutes later Edward (to hurry) through the streets to his
+   bus stop.
+10. They moved across the room, which (to start) to fill up, to a
+    vacant corner.
+
+Present Perfect Simple
+
+
+1.  We just … (meet) an American actor.
+2.  Your husband … (sell) the house?
+3.  I … (not start) my new job yet.
+4   You … (be) to New York before?
+5    Ann … (not choose) the dessert yet.
+6    They … (do) the shopping today.
+7    Tom … ever (visit) Disneyland?
+8    I just … (see) a horror film.
+9    She … (not find) her coat.
+10    The cat already … (eat up) the fish.
+
+Present Simple или Present Continuous?
+
+1. Excuse me, … you … (know) where the post office is?
+
+2. I … (want) to eat a sandwich.
+
+3. … you … (go) to travel abroad next year?
+
+4. Where’s Bob? He … (listen) to music in his room.
+
+5. How often … you …. (go) for a walk in the park?
+
+6. My father … (read) magazines very often.
+
+7. What time … your mother … (finish) her job in the evening?
+
+8. She … (go) to the gym twice a week.
+
+9. Liza … usually … (drive) to work. She usually catches the bus.
+
+10. They … (do) their homework in the room.
