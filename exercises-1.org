@@ -1,0 +1,200 @@
+#+STARTUP: showall indent hidestars
+
+* Упраженения 1
+
+** Past Simple
+
+Построить утвердительное, отрицательное и вопросительное предложение:
+
+- I (to do) morning exercises.
+  #+BEGIN_EXAMPLE
+    I did morning exercieses
+    I didn`t morning exercises
+    Did I do morning exercises?
+  #+END_EXAMPLE
+
+- He (to work) at a factory.
+  #+BEGIN_EXAMPLE
+    He was worked at a factory
+    He wasn`t worked at a factory
+    Did he worked at a factory?
+  #+END_EXAMPLE
+
+- She (to sleep) after dinner.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- We (to work) part-time.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- They (to drink) tea every day.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Mike (to be) a student.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Helen (to have) a car.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- You (to be) a good friend.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- You (to be) good friends.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- It (to be) difficult to remember everything.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+** Past Continuous
+
+Построить предложения в Past Continuous:
+
+- Around me people (to talk) Russian, Italian and English.
+  #+BEGIN_EXAMPLE
+    Around me people was talking Russian, Italian and English.
+    Around me people wasn`t talking Russian, Italian and English.
+    Was around me people talking Russian, Italian and English.
+  #+END_EXAMPLE
+
+- Arnold (to talk) to some of the other guests on the terrace when Hardy came.
+  #+BEGIN_EXAMPLE
+    Arnold was talking to some of the other guests on the terrace when Hardy came.
+    Arnold wasn`t talking to some of the other guests on the terrace when Hardy came.
+    Was Arnold talking to some of the other guests on the terrace when Hardy came?
+  #+END_EXAMPLE
+
+- Alex (to look) at his watch.
+  #+BEGIN_EXAMPLE
+    Alex was looking at his watch
+    Alex wasn`t looking at his watch
+    Was Alex looking at his watch?
+  #+END_EXAMPLE
+
+- All night long the stars (to glitter).
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Elizabeth (to eat) and didn’t raise her head.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- He drank some of the wine and ate several chunks of bread while he (to wait) for his
+  dinner to come up.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- The family (to prepare) for the party.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- She (to argue) that only Belinda knew how to treat men.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- A few minutes later Edward (to hurry) through the streets to his
+  bus stop.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- They moved across the room, which (to start) to fill up, to a
+  vacant corner.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+** Present Perfect Simple
+
+- We just … (meet) an American actor.
+  #+BEGIN_EXAMPLE
+    We just have meet an American actor
+    We just haven`t meet an American actor
+    Have we just meet an American actor?
+  #+END_EXAMPLE
+
+- Your husband … (sell) the house?
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- I … (not start) my new job yet.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- You … (be) to New York before?
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Ann … (not choose) the dessert yet.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- They … (do) the shopping today.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Tom … ever (visit) Disneyland?
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- I just … (see) a horror film.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- She … (not find) her coat.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- The cat already … (eat up) the fish.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+** Present Simple или Present Continuous?
+
+- Excuse me, … you … (know) where the post office is?
+  #+BEGIN_EXAMPLE
+    Excuse me, do you know where the post office is?
+  #+END_EXAMPLE
+
+- I … (want) to eat a sandwich.
+  #+BEGIN_EXAMPLE
+    I am wanting to eat a sandwich.
+  #+END_EXAMPLE
+
+- … you … (go) to travel abroad next year?
+  #+BEGIN_EXAMPLE
+    Do you going to travel abroad next year?
+  #+END_EXAMPLE
+
+- Where’s Bob? He … (listen) to music in his room.
+  #+BEGIN_EXAMPLE
+    Where’s Bob? He is listening music in his room.
+  #+END_EXAMPLE
+
+- How often … you …. (go) for a walk in the park?
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- My father … (read) magazines very often.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- What time … your mother … (finish) her job in the evening?
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- She … (go) to the gym twice a week.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- Liza … usually … (drive) to work. She usually catches the bus.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
+
+- They … (do) their homework in the room.
+  #+BEGIN_EXAMPLE
+  #+END_EXAMPLE
