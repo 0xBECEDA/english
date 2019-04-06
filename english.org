@@ -101,6 +101,36 @@ What is your name?
   Я собираюсь посмотреть фильм завтра.
 #+END_EXAMPLE
 
+Исключения, не принимающий -ing!
+
+#+BEGIN_EXAMPLE
+
+    Believe - верить
+    Depend - зависеть
+    Belong - принадлежать
+    Contain - содержать
+    Forget - забывать
+    Hate - ненавидеть
+    Like - нравиться
+    Love - любить
+    Matter - иметь значение
+    Need - нуждаться
+    Own - владеть
+    Prefer - предпочитать
+    Realize - осознавать
+    Remember - помнить
+    Suppose - предполагать
+    Want - хотеть
+    Know - знать
+    Mean - иметь значение
+    Seem - казаться
+    Understand - понимать
+
+
+#+END_EXAMPLE
+
+
+
 ** Past Simple
 
 Действие, совершившееся в прошлом.
@@ -162,6 +192,35 @@ What is your name?
 #+BEGIN_EXAMPLE
   They were not watching the film.
 #+END_EXAMPLE
+
+Исключения, не принимающие -ing!
+(одинаковые с present continuous)
+#+BEGIN_EXAMPLE
+
+    Believe - верить
+    Depend - зависеть
+    Belong - принадлежать
+    Contain - содержать
+    Forget - забывать
+    Hate - ненавидеть
+    Like - нравиться
+    Love - любить
+    Matter - иметь значение
+    Need - нуждаться
+    Own - владеть
+    Prefer - предпочитать
+    Realize - осознавать
+    Remember - помнить
+    Suppose - предполагать
+    Want - хотеть
+    Know - знать
+    Mean - иметь значение
+    Seem - казаться
+    Understand - понимать
+
+
+#+END_EXAMPLE
+
 
 ** Present Perfect Simple
 

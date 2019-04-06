@@ -14,10 +14,21 @@
   #+END_EXAMPLE
 
 - He (to work) at a factory.
+
+- Неправильно. На данный момент твоей предложение переводится "Его
+  работали на фабрике".
+
+ Здесь не нужен глагол to be, поскольку это не консиниус, не пассивный
+ залог и смысловой глагол у тебя уже есть ( work).
+
+ Смотри в гид, который я тебе написала, а не в гугл.
+
+ Правильно:
+
   #+BEGIN_EXAMPLE
-    He was worked at a factory
-    He wasn`t worked at a factory
-    Did he worked at a factory?
+    He worked at a factory
+    He didn't worked at a factory
+    Did he work at a factory?
   #+END_EXAMPLE
 
 - She (to sleep) after dinner.
@@ -55,6 +66,9 @@
 ** Past Continuous
 
 Построить предложения в Past Continuous:
+
+Пока что все правильно.
+Подсказываю на будущее: не забудь про множественное число кое-где
 
 - Around me people (to talk) Russian, Italian and English.
   #+BEGIN_EXAMPLE
@@ -111,6 +125,10 @@
 ** Present Perfect Simple
 
 - We just … (meet) an American actor.
+
+Подозреваю, что ты имел в виду met (мэт), но из-за правописания
+употребил первую форму, а не третью.
+
   #+BEGIN_EXAMPLE
     We just have meet an American actor
     We just haven`t meet an American actor
@@ -161,10 +179,17 @@
   #+END_EXAMPLE
 
 - I … (want) to eat a sandwich.
+
+Технически правильно, но есть глаголы, не принимающие ing.
+Want в их числе.
+Так что будет просто:
   #+BEGIN_EXAMPLE
-    I am wanting to eat a sandwich.
+    I want to eat a sandwich.
   #+END_EXAMPLE
 
+Неправильно.
+Какой вспомогательный глагол у континиуса?
+См. в гид
 - … you … (go) to travel abroad next year?
   #+BEGIN_EXAMPLE
     Do you going to travel abroad next year?
