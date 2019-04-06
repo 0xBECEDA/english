@@ -47,6 +47,7 @@
 ** Present Simple
 
 Действие происходит регулярно, часто, постоянно.
+
 Особенность: в третьем лице единственном числе к глаголу
 добавляется "s" (he reads, she reads, it reads). Для простороения
 вопроса или отрицания, используется вспомогательный глагол do.
@@ -54,68 +55,90 @@
 Функция вспомогательных глаголов следует из названия: они помогают,
 забирая на себя временную нагрузку. В случае с Present Simple
 do заберет себе -s, если она есть у смыслового глагола:
-
-He watchs  TV every evening -> He does not watch TV every evening
+#+BEGIN_EXAMPLE
+  He watchs TV every evening -> He does not watch TV every evening
+#+END_EXAMPLE
 
 При построении вопроса вспомогательный глагол уйдет в начало:
-
+#+BEGIN_EXAMPLE
 Does he not watch TV every evening?
+#+END_EXAMPLE
 
+#+BEGIN_EXAMPLE
 Do you like sport?
 What is your name?
+#+END_EXAMPLE
 
 ** Present Continuous
 
-Действие происходит в какой-то отрезок времени, происходит какой-то
-процесс.
+Действие происходит в какой-то отрезок времени, происходит какой-то процесс.
 
-Строится: to be + глагол + ing
+Строится: =to be= + =глагол= + =ing=
 
 Утверждение:
-I am watching the film.
+
+#+BEGIN_EXAMPLE
+  I am watching the film.
+#+END_EXAMPLE
 
 Вопрос:
-Is he watching the film?
+
+#+BEGIN_EXAMPLE
+  Is he watching the film?
+#+END_EXAMPLE
 
 Отрицание:
-They are not watching the film.
 
-ВАЖНО!
-Устойчивая конструкция to be + planing/going to + инфинитив глагола.
+#+BEGIN_EXAMPLE
+  They are not watching the film.
+#+END_EXAMPLE
+
+ВАЖНО! Устойчивая конструкция =to be= + =planing/going to= + =инфинитив глагола=.
 Обозначает намерение.
 
-I am planning to watch the film tomorrow -> Я собираюсь посмотреть
-фильм завтра.
+#+BEGIN_EXAMPLE
+  I am planning to watch the film tomorrow
+  Я собираюсь посмотреть фильм завтра.
+#+END_EXAMPLE
 
 ** Past Simple
 
 Действие, совершившееся в прошлом.
-Строится:
-Смысловой глагол правильный?
--да! Тогда к глаголу добавится ed (watched, helped etc.)
-- нет! Тогда употребляем собственнуб вторую форму глагола:
-(see->sow, go -> went etc)
 
-Для построения отрицания или вопроса используется вспомогательный
-глагол do. Раз он помогает, то забирает на себя временную нагрузку:
-становится did.
+Строится:
+- Смысловой глагол правильный?
+  - Да! Тогда к глаголу добавится =ed= (watch=ed=, help=ed= etc.)
+  - Нет! Тогда употребляем собственную вторую форму глагола: (see->sow, go->went etc.)
+
+Для построения отрицания или вопроса используется вспомогательный глагол =do=. Раз он
+помогает, то забирает на себя временную нагрузку: становится =did=.
 
 Утверждение:
-I watched TV at the evening.
-I went with my dog two hours ago.
+
+#+BEGIN_EXAMPLE
+  I watched TV at the evening.
+  I went with my dog two hours ago.
+#+END_EXAMPLE
 
 Вопрос:
-Did he went with my dog two hours ago?
+
+#+BEGIN_EXAMPLE
+  Did he went with my dog two hours ago?
+#+END_EXAMPLE
 
 Отрицание:
-I did not watch TV at the evening.
 
-ВАЖНО!
-Если действие повторялось в прошлом неоднократно, используется
-устойчивая конструкция used to + смысловой глагол.
+#+BEGIN_EXAMPLE
+  I did not watch TV at the evening.
+#+END_EXAMPLE
 
-I used to wake up at 5 o'clock -> Я привык просыпаться/просыпался в
-пять часов.
+ВАЖНО! Если действие повторялось в прошлом неоднократно, используется устойчивая
+конструкция =used to= + =смысловой глагол=.
+
+#+BEGIN_EXAMPLE
+  I used to wake up at 5 o'clock
+  Я привык просыпаться/просыпался в пять часов.
+#+END_EXAMPLE
 
 ** Past Continuous
 
