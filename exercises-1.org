@@ -33,34 +33,61 @@
 
 - She (to sleep) after dinner.
   #+BEGIN_EXAMPLE
+    She slept after diner
+    She didn't sleep after diner
+    Did She slept after diner?
   #+END_EXAMPLE
 
 - We (to work) part-time.
   #+BEGIN_EXAMPLE
+    He worked part-time
+    He didn't work part-time
+    Did He work part-time?
   #+END_EXAMPLE
 
 - They (to drink) tea every day.
   #+BEGIN_EXAMPLE
+    They drank tea every day
+    They didn't drank tea every day
+    Did They drank tea every day?
   #+END_EXAMPLE
 
 - Mike (to be) a student.
   #+BEGIN_EXAMPLE
+    Mike was student
+    Mike wasn't student
+    Was Mike a student?
   #+END_EXAMPLE
 
 - Helen (to have) a car.
   #+BEGIN_EXAMPLE
+    Helen had a car
+    Helen didn't have a car
+    Did Helen have a car?
   #+END_EXAMPLE
 
 - You (to be) a good friend.
   #+BEGIN_EXAMPLE
+    You was a good friend
+    You weren't a good friend
+    Did you were a good friend
   #+END_EXAMPLE
+
+  Гуглопереводчик, который я использую вместо компилятора
+  подсказал мне, что что с =You= используется =Were=, чего
+  не происходит, например с =Mike wasn't a good friend=.
+
 
 - You (to be) good friends.
   #+BEGIN_EXAMPLE
+    Это ошибка дублирования или артикль так важен?
   #+END_EXAMPLE
 
 - It (to be) difficult to remember everything.
   #+BEGIN_EXAMPLE
+    It was difficult to remember everything
+    It wasn't difficult to remember everything
+    Was it difficult to remember everything?
   #+END_EXAMPLE
 
 ** Past Continuous
@@ -72,55 +99,81 @@
 
 - Around me people (to talk) Russian, Italian and English.
   #+BEGIN_EXAMPLE
-    Around me people was talking Russian, Italian and English.
-    Around me people wasn`t talking Russian, Italian and English.
-    Was around me people talking Russian, Italian and English.
+    Around me people were talking Russian, Italian and English.
+    Around me people weren't talking Russian, Italian and English.
+    Were around me people talking Russian, Italian and English.
   #+END_EXAMPLE
+  Исправил, т.к. =people= подразумевает множественное число
 
 - Arnold (to talk) to some of the other guests on the terrace when Hardy came.
   #+BEGIN_EXAMPLE
     Arnold was talking to some of the other guests on the terrace when Hardy came.
-    Arnold wasn`t talking to some of the other guests on the terrace when Hardy came.
+    Arnold wasn't talking to some of the other guests on the terrace when Hardy came.
     Was Arnold talking to some of the other guests on the terrace when Hardy came?
   #+END_EXAMPLE
 
 - Alex (to look) at his watch.
   #+BEGIN_EXAMPLE
     Alex was looking at his watch
-    Alex wasn`t looking at his watch
+    Alex wasn't looking at his watch
     Was Alex looking at his watch?
   #+END_EXAMPLE
 
 - All night long the stars (to glitter).
   #+BEGIN_EXAMPLE
+    The stars were glittering all night long
+    The stars weren't glittering all night long
+    Were the stars glittering all night long?
   #+END_EXAMPLE
 
 - Elizabeth (to eat) and didn’t raise her head.
   #+BEGIN_EXAMPLE
+    Elizabeth was eating and didn't raise her head
+    Elizabeth wasn't eating and didn't raise her head
+    Was Elizabeth eating and didn't raise her head?
   #+END_EXAMPLE
 
 - He drank some of the wine and ate several chunks of bread while he (to wait) for his
   dinner to come up.
   #+BEGIN_EXAMPLE
+    He drank some of wine and ate several chunks of bread while he was waiting for
+    his dinner to come up.
+    He drank some of wine and ate several chunks of bread while he wasn't waiting for
+    his dinner to come up.
+    Was he drank some of wine and ate several chunks of bread while waiting for
+    his dinner to come up?
   #+END_EXAMPLE
 
 - The family (to prepare) for the party.
   #+BEGIN_EXAMPLE
+    The family were preparing for the party
+    The family weren't preparing for the party
+    Were the family preparing for the party?
   #+END_EXAMPLE
 
 - She (to argue) that only Belinda knew how to treat men.
   #+BEGIN_EXAMPLE
+    She was arguing that only Belinda knew how to treat men.
+    She wasn't arguing that only Belinda knew how to treat men.
+    Was She arguing that only Belinda knew how to treat men?
   #+END_EXAMPLE
 
-- A few minutes later Edward (to hurry) through the streets to his
-  bus stop.
+- A few minutes later Edward (to hurry) through the streets to his bus stop.
   #+BEGIN_EXAMPLE
+    A few minute later Edward was hurrying through the streets to his bus stop
+    A few minute later Edward wasn't hurrying through the streets to his bus stop
+    Was Edward hurrying through the streets to his bus stop a few minute later?
   #+END_EXAMPLE
 
-- They moved across the room, which (to start) to fill up, to a
-  vacant corner.
+- They moved across the room, which (to start) to fill up, to a vacant corner.
   #+BEGIN_EXAMPLE
+    They moved across the room, which was starting to fill up, to a vacant corner
+    They moved across the room, which wasn't starting to fill up, to a vacant corner
+    Was they moved across the room, which starting to fill up, to a vacant corner
   #+END_EXAMPLE
+
+  Тут вообще-то странно, т.к. подлежащим должна быть комната, которая начинает
+  заполняться?
 
 ** Present Perfect Simple
 
@@ -128,47 +181,64 @@
 
 Подозреваю, что ты имел в виду met (мэт), но из-за правописания
 употребил первую форму, а не третью.
-
+- Да
   #+BEGIN_EXAMPLE
-    We just have meet an American actor
-    We just haven`t meet an American actor
-    Have we just meet an American actor?
+    We just have met an American actor
+    We just haven`t met an American actor
+    Have we just met an American actor?
   #+END_EXAMPLE
 
 - Your husband … (sell) the house?
   #+BEGIN_EXAMPLE
+    Your husband has sold the house
+    Your husband hasn't sold the house
+    Has your husband sold the house?
   #+END_EXAMPLE
 
 - I … (not start) my new job yet.
   #+BEGIN_EXAMPLE
+    I haven't start my new job yet.
+    Have i start my new job yet?
   #+END_EXAMPLE
 
 - You … (be) to New York before?
   #+BEGIN_EXAMPLE
+    Have you been to New York before
   #+END_EXAMPLE
 
 - Ann … (not choose) the dessert yet.
   #+BEGIN_EXAMPLE
+    Ann hasn't chosen the dessert yet
+    Has Ann chosen the dessert yet?
   #+END_EXAMPLE
 
 - They … (do) the shopping today.
   #+BEGIN_EXAMPLE
+    They have done the shopping today
+    Have they done the shopping today?
   #+END_EXAMPLE
 
 - Tom … ever (visit) Disneyland?
   #+BEGIN_EXAMPLE
+    Has Tom visited Disnayland?
   #+END_EXAMPLE
 
 - I just … (see) a horror film.
   #+BEGIN_EXAMPLE
+    I just have seen horror film
+    Have i seen a horror film?
   #+END_EXAMPLE
 
 - She … (not find) her coat.
   #+BEGIN_EXAMPLE
+    She hasn't found her coat
+    Has she found her coat?
   #+END_EXAMPLE
 
 - The cat already … (eat up) the fish.
   #+BEGIN_EXAMPLE
+    The cat already has eaten the fish
+    Has cat eaten the fish already?
   #+END_EXAMPLE
 
 ** Present Simple или Present Continuous?
@@ -192,7 +262,7 @@ Want в их числе.
 См. в гид
 - … you … (go) to travel abroad next year?
   #+BEGIN_EXAMPLE
-    Do you going to travel abroad next year?
+    Do you doing go to travel abroad next year?
   #+END_EXAMPLE
 
 - Where’s Bob? He … (listen) to music in his room.
@@ -202,24 +272,30 @@ Want в их числе.
 
 - How often … you …. (go) for a walk in the park?
   #+BEGIN_EXAMPLE
+    How often do you going for a walk in the park?
   #+END_EXAMPLE
 
 - My father … (read) magazines very often.
   #+BEGIN_EXAMPLE
+    My father reads magazines very often
   #+END_EXAMPLE
 
 - What time … your mother … (finish) her job in the evening?
   #+BEGIN_EXAMPLE
+    What time is your mother finishing her job in the evening?
   #+END_EXAMPLE
 
 - She … (go) to the gym twice a week.
   #+BEGIN_EXAMPLE
+    She is going to the gym twice a week
   #+END_EXAMPLE
 
 - Liza … usually … (drive) to work. She usually catches the bus.
   #+BEGIN_EXAMPLE
+    Liza isn't usually driving to work. She usually cathces the bus
   #+END_EXAMPLE
 
 - They … (do) their homework in the room.
   #+BEGIN_EXAMPLE
+    They are doing their homework in the room
   #+END_EXAMPLE

@@ -104,7 +104,6 @@ What is your name?
 Исключения, не принимающий -ing!
 
 #+BEGIN_EXAMPLE
-
     Believe - верить
     Depend - зависеть
     Belong - принадлежать
@@ -125,8 +124,6 @@ What is your name?
     Mean - иметь значение
     Seem - казаться
     Understand - понимать
-
-
 #+END_EXAMPLE
 
 
