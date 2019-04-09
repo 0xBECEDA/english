@@ -32,10 +32,14 @@
   #+END_EXAMPLE
 
 - She (to sleep) after dinner.
+Последнее неправильно. Вспомогательный глагол уже стоит в прошлом
+(did), значит смысловой принимает обычную форму. Потому что
+вспомогательный глагол принимает весь удар (время) на себя.
+
   #+BEGIN_EXAMPLE
     She slept after diner
     She didn't sleep after diner
-    Did She slept after diner?
+    Did She sleep after diner?
   #+END_EXAMPLE
 
 - We (to work) part-time.
@@ -46,10 +50,15 @@
   #+END_EXAMPLE
 
 - They (to drink) tea every day.
+
+Та же ошибка. Раз есть вспомогательный глагол, то смысловой
+принимает обычную форму. В предыдущем же упражнении ты правильно
+сделал. Проанализируй, почему.
+
   #+BEGIN_EXAMPLE
     They drank tea every day
-    They didn't drank tea every day
-    Did They drank tea every day?
+    They didn't drink tea every day
+    Did they drink tea every day?
   #+END_EXAMPLE
 
 - Mike (to be) a student.
@@ -77,10 +86,14 @@
   подсказал мне, что что с =You= используется =Were=, чего
   не происходит, например с =Mike wasn't a good friend=.
 
+  - гугл подсказал тебе правильно. Потому что =to be= показывает
+  показывает единственное у нас число или множественное. Поэтому
+  =I am= в прошлом станет =I was=, а =you/we/they are= станет
+  =you/we/they were=
 
 - You (to be) good friends.
   #+BEGIN_EXAMPLE
-    Это ошибка дублирования или артикль так важен?
+   ошибка дублирования
   #+END_EXAMPLE
 
 - It (to be) difficult to remember everything.
@@ -104,6 +117,8 @@
     Were around me people talking Russian, Italian and English.
   #+END_EXAMPLE
   Исправил, т.к. =people= подразумевает множественное число
+
+  - исправил неверно. В английском =people= - единственное число
 
 - Arnold (to talk) to some of the other guests on the terrace when Hardy came.
   #+BEGIN_EXAMPLE
@@ -135,20 +150,26 @@
 
 - He drank some of the wine and ate several chunks of bread while he (to wait) for his
   dinner to come up.
+
+ Хорошая попытка с вопросом. А теперь задай его себе по-русски:
+ Он ждал ужин пока пил вино и жевал хлеб?
+ В твоем варианте ты разорвал глагол и смысл потерялся.
   #+BEGIN_EXAMPLE
     He drank some of wine and ate several chunks of bread while he was waiting for
     his dinner to come up.
     He drank some of wine and ate several chunks of bread while he wasn't waiting for
     his dinner to come up.
-    Was he drank some of wine and ate several chunks of bread while waiting for
-    his dinner to come up?
+    Was he waiting dinner to come up, while drank some of wine and ate several chunks of bread?
+
   #+END_EXAMPLE
 
 - The family (to prepare) for the party.
+
+Семья (она, моя) - единственное число.
   #+BEGIN_EXAMPLE
-    The family were preparing for the party
-    The family weren't preparing for the party
-    Were the family preparing for the party?
+    The family was preparing for the party
+    The family wasn't preparing for the party
+    Was the family preparing for the party?
   #+END_EXAMPLE
 
 - She (to argue) that only Belinda knew how to treat men.
@@ -166,14 +187,19 @@
   #+END_EXAMPLE
 
 - They moved across the room, which (to start) to fill up, to a vacant corner.
-  #+BEGIN_EXAMPLE
+Та же самая ошибка, что и с =was waiting=. Смысловой глагол находится
+в километре от вспомогательного, так нельзя (это же не немецкий)
+Задай себе вопрос по русски: Они двигались вокруг пространства...?
+ #+BEGIN_EXAMPLE
     They moved across the room, which was starting to fill up, to a vacant corner
     They moved across the room, which wasn't starting to fill up, to a vacant corner
-    Was they moved across the room, which starting to fill up, to a vacant corner
+    Did they move across the room, which was starting to fill up, to a vacant corner
   #+END_EXAMPLE
 
   Тут вообще-то странно, т.к. подлежащим должна быть комната, которая начинает
   заполняться?
+
+  Думаю, здесь речь идет о пространстве.
 
 ** Present Perfect Simple
 
@@ -196,14 +222,18 @@
   #+END_EXAMPLE
 
 - I … (not start) my new job yet.
+
+Как изменяется правильный глагол в Перфектах? Правильно! К нему
+добавляется =ed= на конце. Как и в past simple.
+
   #+BEGIN_EXAMPLE
-    I haven't start my new job yet.
-    Have i start my new job yet?
+    I haven't started my new job yet.
+    Have i started my new job yet?
   #+END_EXAMPLE
 
 - You … (be) to New York before?
   #+BEGIN_EXAMPLE
-    Have you been to New York before
+    Have you been to New York before?
   #+END_EXAMPLE
 
 - Ann … (not choose) the dessert yet.
@@ -219,14 +249,18 @@
   #+END_EXAMPLE
 
 - Tom … ever (visit) Disneyland?
+=ever= всегда будет между =have/hase= и основнм глаголом в
+перфектах. Да, аброкадабра.
+
   #+BEGIN_EXAMPLE
-    Has Tom visited Disnayland?
+    Has Tom ever visited Disnayland?
   #+END_EXAMPLE
 
 - I just … (see) a horror film.
+С =just= та же самая гадость
   #+BEGIN_EXAMPLE
-    I just have seen horror film
-    Have i seen a horror film?
+    I have just seen horror film
+    Have i just  seen a horror film?
   #+END_EXAMPLE
 
 - She … (not find) her coat.
@@ -236,8 +270,12 @@
   #+END_EXAMPLE
 
 - The cat already … (eat up) the fish.
+
+А вот =already= чаще уходит в конец, хотя
+это опционально.
+
   #+BEGIN_EXAMPLE
-    The cat already has eaten the fish
+    The cat has eaten the fish already.
     Has cat eaten the fish already?
   #+END_EXAMPLE
 
@@ -261,8 +299,13 @@ Want в их числе.
 Какой вспомогательный глагол у континиуса?
 См. в гид
 - … you … (go) to travel abroad next year?
+
+Ох ты ж нифига тебе накрутил.
+Собираться, планировать - это =to be + going/planing=, потом
+смысловой глагол, который и показывает, что ты там собрался делать.
+
   #+BEGIN_EXAMPLE
-    Do you doing go to travel abroad next year?
+    Are you going to travel abroad next year?
   #+END_EXAMPLE
 
 - Where’s Bob? He … (listen) to music in his room.
@@ -271,8 +314,12 @@ Want в их числе.
   #+END_EXAMPLE
 
 - How often … you …. (go) for a walk in the park?
+
+  Это что за магический гибрид? Либо =do you go=, либо
+  =are you going=, но уж никак не все вместе.
+
   #+BEGIN_EXAMPLE
-    How often do you going for a walk in the park?
+    How often do you go for a walk in the park?
   #+END_EXAMPLE
 
 - My father … (read) magazines very often.
@@ -281,21 +328,122 @@ Want в их числе.
   #+END_EXAMPLE
 
 - What time … your mother … (finish) her job in the evening?
+
+Построено грамотно, но я думаю, что здесь лучше present simple,
+потому что его мама регулярно заканчивает работу по вечерам в
+какое-то время.
+
   #+BEGIN_EXAMPLE
-    What time is your mother finishing her job in the evening?
+    What time does your mother finish her job in the evening?
   #+END_EXAMPLE
 
 - She … (go) to the gym twice a week.
+
+Построено грамотно. Неверное выбрано время: она ходит в зал дважды
+в неделю, т.е. регулярно. Значит, present simple.
+
   #+BEGIN_EXAMPLE
-    She is going to the gym twice a week
+    She goes to the gym twice a week
   #+END_EXAMPLE
 
 - Liza … usually … (drive) to work. She usually catches the bus.
+
+Ну, это уж совсем. =usually= - обычно. Регулярное, частое,
+постоянное действие = present simple.
   #+BEGIN_EXAMPLE
-    Liza isn't usually driving to work. She usually cathces the bus
+    Liza doesn't usually drive to work. She usually cathces the bus
   #+END_EXAMPLE
 
 - They … (do) their homework in the room.
   #+BEGIN_EXAMPLE
     They are doing their homework in the room
   #+END_EXAMPLE
+
+* Упражнения 2
+
+** Present Perfect
+
+Составь утвердительное предложение из набора слов. В гиде появилось дополнение
+специально для этого упражнения:
+
+1    Buy/ we/ a new house
+2    She/ their/ feed/ already/ dog
+3    Never/ fly / I/ a plane
+4    This/ read/ Anna/ already/ book
+5    since 2010/ I/ in school / work
+6    they/ all homework/ not do/ yet
+
+
+Составь вопросительную и отрицательную форму каждого предложения
+
+1    He has already read this book
+2    They have bought a new car
+3    You have drunk three cups of tea today
+4    Jane has gone to England
+5    Mike has lost his wallet
+6    Anna has visited Paris several times
+
+Раскрой глаголы в скобках
+
+1    My parents (to know) each other for many years
+2    I (to drive) this car since 2015
+3    We already ( to do) all the housework
+4    She (to close) the door
+5    I (to read) a lot of magazines in the last few days
+6    Mike never (to be) to England before
+
+** Past Simple
+Раскрыть скобки, употребив верную форму глагола, построить
+утвердительную, вопросительную и отрицательную формы предложения
+
+1    I (be) born in 1999
+2    We (meet) 2 months ago
+3    I (go) to the park at the weekend
+4    I (not catch) watch you say
+5    I (become) a director 4 years ago
+6    I (have) some chicken for breakfast
+
+** Неправильные глаголы:
+
+Определить, какая форма глагола, написать перевод и все три формы:
+
+
+1     Took
+2     Broken
+3     Done
+4     Sing
+5     Lose
+6     Win
+7     Make
+8     Swam
+9     Bought
+10    Drunk
+11    Flew
+12    Spoke
+13    Leave
+14    Seen
+15    worn
+
+** Present Simple или Present Continuous?
+
+В обоих упражнениях раскрыть скобки, употребляя глаголы в нужном времени.
+
+1    They (not to drink) milk now. They (to eat) an ice-cream.
+2    I (not to drink) milk in the evening. I (not to like) it.
+3    Your sister (to do) her yoga now?
+4    My cousin (to go) to the gym every day.
+5    Where your daughter (to work)? – She (to work) at a hospital.
+6    Their children (not to sleep) now. They (to eat) lunch.
+7    Your father (to go) running in the morning?
+8    Look! The kitten (to play).
+
+
+1    The kitten always (to play) in the evening.
+2    When you usually (to get) home? — I (to get) at seven o'clock.
+3    His grandfather (not to work). He is retired.
+4    I usually (to get) up at eight o'clock in the morning.
+5    What your grandmother (to do) now? - She (to wash) her car.
+6    Your sister (to study) at university? – No, she (to work) at
+7    university.
+8    His friends (not to play) chess now. They (to play) chess at the
+     weekend.
