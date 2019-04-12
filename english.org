@@ -192,30 +192,28 @@ What is your name?
 
 Исключения, не принимающие -ing!
 (одинаковые с present continuous)
+
 #+BEGIN_EXAMPLE
-
-    Believe - верить
-    Depend - зависеть
-    Belong - принадлежать
-    Contain - содержать
-    Forget - забывать
-    Hate - ненавидеть
-    Like - нравиться
-    Love - любить
-    Matter - иметь значение
-    Need - нуждаться
-    Own - владеть
-    Prefer - предпочитать
-    Realize - осознавать
-    Remember - помнить
-    Suppose - предполагать
-    Want - хотеть
-    Know - знать
-    Mean - иметь значение
-    Seem - казаться
-    Understand - понимать
-
-
+  Believe - верить
+  Depend - зависеть
+  Belong - принадлежать
+  Contain - содержать
+  Forget - забывать
+  Hate - ненавидеть
+  Like - нравиться
+  Love - любить
+  Matter - иметь значение
+  Need - нуждаться
+  Own - владеть
+  Prefer - предпочитать
+  Realize - осознавать
+  Remember - помнить
+  Suppose - предполагать
+  Want - хотеть
+  Know - знать
+  Mean - иметь значение
+  Seem - казаться
+  Understand - понимать
 #+END_EXAMPLE
 
 
@@ -246,26 +244,23 @@ perfect=, вот мы и оставили фишечку =present simple=: к в
   - No, he has not watched it.
 #+END_EXAMPLE
 
- ДОПОЛНЕНИЕ! (для продвинутых):
+Дополнение! (для продвинутых):
 
- Есть слова-маркеры, по которым можно понять, что это будет перфект:
+Есть слова-маркеры, по которым можно понять, что это будет перфект:
 
 #+BEGIN_EXAMPLE
-
-    ever – когда-либо, когда бы то ни было, когда-нибудь;
-    never – никогда;
-    just – как раз, точно, сейчас, только что и т.д.;
-    already – уже
-    not…yet – все еще нет, еще нет и т.д.;
-    before – раньше, прежде, перед тем как;
-    lately – давно, в последнее время, недавно, за последнее время;
-    of late – с недавних пор, за последнее время, недавно;
-    so far – к настоящему времени, на этот час, до сих пор, вплоть до этого момента;
-    recently – недавно, на днях, в последнее время;
-    by now – на настоящий момент;
-    up to now – до сих пор, до настоящего времени.
-
-
+  ever – когда-либо, когда бы то ни было, когда-нибудь;
+  never – никогда;
+  just – как раз, точно, сейчас, только что и т.д.;
+  already – уже
+  not…yet – все еще нет, еще нет и т.д.;
+  before – раньше, прежде, перед тем как;
+  lately – давно, в последнее время, недавно, за последнее время;
+  of late – с недавних пор, за последнее время, недавно;
+  so far – к настоящему времени, на этот час, до сих пор, вплоть до этого момента;
+  recently – недавно, на днях, в последнее время;
+  by now – на настоящий момент;
+  up to now – до сих пор, до настоящего времени.
 #+END_EXAMPLE
 
 Их противность заключается в том, что они ставятся в разное место у
@@ -276,21 +271,17 @@ perfect=, вот мы и оставили фишечку =present simple=: к в
 вспомогательным и смысловым глаголом:
 
 #+BEGIN_EXAMPLE
-
-He has lately seen many films. – За последнее время он посмотрел много фильмов.
-I’ve already been here for an hour. – Я здесь нахожусь уже час.
-He has made good progress recently. – За последнее время он добился значительного прогресса.
-We haven’t spoken of late. – За последнее время мы не разговаривали.
-
+  He has lately seen many films. – За последнее время он посмотрел много фильмов.
+  I’ve already been here for an hour. – Я здесь нахожусь уже час.
+  He has made good progress recently. – За последнее время он добился значительного прогресса.
+  We haven’t spoken of late. – За последнее время мы не разговаривали.
 #+END_EXAMPLE
 
 =yet и before= уходят в конец:
 
 #+BEGIN_EXAMPLE
-
-I have seen this cartoon before. – Я видел этот мультфильм раньше.
-He has not finished his work yet. – Он еще не закончил свою работу.
-
+  I have seen this cartoon before. – Я видел этот мультфильм раньше.
+  He has not finished his work yet. – Он еще не закончил свою работу.
 #+END_EXAMPLE
 
 =so far, up to now, by now= могут стоять, где им вздумается: и посреди
@@ -298,23 +289,20 @@ He has not finished his work yet. – Он еще не закончил свою
 редко)
 
 #+BEGIN_EXAMPLE
-
-He has so far written ten letters to this company.
- – К настоящему времени он уже написал в эту компанию десять писем.
-Up to now I haven’t found this book. – До сих пор я не нашел эту книгу.
-She has read fourteen novels by Stephen King by now.
- – На настоящий момент она прочитала четырнадцать романов Стивена Кинга.
-
+  He has so far written ten letters to this company.
+   – К настоящему времени он уже написал в эту компанию десять писем.
+  Up to now I haven’t found this book. – До сих пор я не нашел эту книгу.
+  She has read fourteen novels by Stephen King by now.
+   – На настоящий момент она прочитала четырнадцать романов Стивена Кинга.
 #+END_EXAMPLE
 
 =just, never, ever= встречаются в середине
 =ever= чаще всего встречается в вопросах.
 
 #+BEGIN_EXAMPLE
-
-The mail has just come. – Почта только что пришла.
-I have never seen him. – Я никогда его не видел.
-Have you ever seen him? – Ты когда-нибудь его видел?
+  The mail has just come. – Почта только что пришла.
+  I have never seen him. – Я никогда его не видел.
+  Have you ever seen him? – Ты когда-нибудь его видел?
 #+END_EXAMPLE
 
 Как построить вопрос, если в утверждении эта гадость?
@@ -322,18 +310,15 @@ Have you ever seen him? – Ты когда-нибудь его видел?
 должен стоять в конце, значит, отправляем его в самый конец
 
 #+BEGIN_EXAMPLE
-
-Have you seen her before? - Ты видел его раньше?
-Have you spoken with him of late? - Вы с ним разговаривали в последнее время?
-
+  Have you seen her before? - Ты видел его раньше?
+  Have you spoken with him of late? - Вы с ним разговаривали в последнее время?
 #+END_EXAMPLE
 
 Если он в был в середине, то в середине и останется:
 
 #+BEGIN_EXAMPLE
-
-Has he just finished his homework? - Он только что закончил домашнюю работу?
-Have you never eaten eags? - Ты никогда не ела яйца?
+  Has he just finished his homework? - Он только что закончил домашнюю работу?
+  Have you never eaten eags? - Ты никогда не ела яйца?
 #+END_EXAMPLE
 
 Если он был в начале.. то тоже пойдет в конец (часто). Почему?
@@ -342,11 +327,9 @@ Have you never eaten eags? - Ты никогда не ела яйца?
 ж никак не наречие:
 
 #+BEGIN_EXAMPLE
-
-Has he finished his homework by now? - Он закончил домашнюю работу на настоящий момент?
-
+  Has he finished his homework by now? - Он закончил домашнюю работу на настоящий момент?
 #+END_EXAMPLE
 
- Это выглядит большим, нелогичным и раздражающим. На деле, нужно
- запомнить про =just,before,yet,never,ever,already=. Они часто
- встречаются.
+Это выглядит большим, нелогичным и раздражающим. На деле, нужно
+запомнить про =just,before,yet,never,ever,already=. Они часто
+встречаются.
