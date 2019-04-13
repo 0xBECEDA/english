@@ -360,6 +360,11 @@ Want в их числе.
 
 * Упражнения 2
 ** Present Perfect
+
+ У тебя сверху написано, какое это время. В гиде написано, как
+ строится. Это что за гибрид внизу? Все первое упражнение
+ переделать.
+
 *** Составь утвердительное предложение из набора слов.
 
 В гиде появилось дополнение специально для этого упражнения:
@@ -382,7 +387,7 @@ I have work in school since 2010
 they/ all homework/ not do/ yet
 They haven't do all homework yet
 
-*** Составь вопросительную и отрицательную форму каждого предложения
+*** Составь вопросительную и отрицательную форму каждого предложениe
 
 He has already read this book
 #+BEGIN_SRC
@@ -405,7 +410,7 @@ You have drunk three cups of tea today
 Jane has gone to England
 #+BEGIN_SRC
   Has Jane gone to England?
-  Jane hasnt gone to England
+  Jane hasn't gone to England
 #+END_SRC
 
 Mike has lost his wallet
@@ -449,32 +454,42 @@ I (to read) a lot of magazines in the last few days
 
 Mike never (to be) to England before
 #+BEGIN_SRC
-  Mike never have been to England before
+  Mike has never been to England before
 #+END_SRC
+
+Mike - это он, т.е. 3е лицо ед. число. Значит has. =never=
+всега отправляется в серединку.
 
 ** Past Simple
 
 Раскрыть скобки, употребив верную форму глагола, построить
 утвердительную, вопросительную и отрицательную формы предложения
 
+- Почему вопрос опять построен с do? Если у тебя в утвердительном
+предложении фигурирует =to be=, то с него и будет начинаться
+вопрос.
+
+=I= (в значении "я") всегда пишется с заглавной буквы.
+
 I (be) born in 1999
 #+BEGIN_SRC
   I was born in 1999
-  Did i born in 1999?
+  Was I born in 1999?
   I wasn't born in 1999
 #+END_SRC
+
 
 We (meet) 2 months ago
 #+BEGIN_SRC
   We met 2 monts ago
   Did we meet 2 months ago
-  We didn't mett 2 months ago
+  We didn't meet 2 months ago
 #+END_SRC
 
 I (go) to the park at the weekend
 #+BEGIN_SRC
   I went to the park at the weekend
-  Did i go to the park at the weekend?
+  Did I go to the park at the weekend?
   I didn't go to the park at the weekend
 #+END_SRC
 
@@ -495,7 +510,7 @@ I (become) a director 4 years ago
 I (have) some chicken for breakfast
 #+BEGIN_SRC
   I had some chicken for breakfast
-  Did i have some chichen for breakfast?
+  Did I have some chichen for breakfast?
   I had not some chicken for breakfast
 #+END_SRC
 
@@ -529,18 +544,23 @@ I (have) some chicken for breakfast
 В обоих упражнениях раскрыть скобки, употребляя глаголы в нужном времени.
 
 They (not to drink) milk now. They (to eat) an ice-cream.
+- не забываем вспомогательный глагол
+
 #+BEGIN_SRC
-  They are drinking milk now. They eating an ice-cream
+  They are drinking milk now. They are eating an ice-cream
 #+END_SRC
 
 I (not to drink) milk in the evening. I (not to like) it.
+- а куда мы дели отрицание?
+
 #+BEGIN_SRC
-  I drink milk in the evening. I don't like it.
+  I don't drink milk in the evening. I don't like it.
 #+END_SRC
 
 Your sister (to do) her yoga now?
+- С чего начинается вопрос в английском языке?
 #+BEGIN_SRC
-  Your sister is going her yoga now?
+ Is  your sister going her yoga now?
 #+END_SRC
 
 My cousin (to go) to the gym every day.
@@ -549,8 +569,11 @@ My cousin (to go) to the gym every day.
 #+END_SRC
 
 Where your daughter (to work)? – She (to work) at a hospital.
+- если =s= есть у вспомогательного глагола, то вмысловому уже
+не надо (вспомогательный уже показал, что это 3 лицо ед.ч)
+
 #+BEGIN_SRC
-  Where does your daughter works? - She works at a hospital
+  Where does your daughter work? - She works at a hospital
 #+END_SRC
 
 Their children (not to sleep) now. They (to eat) lunch.
@@ -559,8 +582,12 @@ Their children (not to sleep) now. They (to eat) lunch.
 #+END_SRC
 
 Your father (to go) running in the morning?
+
+- с чего начинается вопрос в английском языке?
+У тебя вопрос звучит в переводе на русский "Твой отец ходит бегать
+по утрам?".
 #+BEGIN_SRC
-  Your father goes running in the morning?
+  Does your father go running in the morning?
 #+END_SRC
 
 Look! The kitten (to play).
@@ -574,6 +601,7 @@ The kitten always (to play) in the evening.
 #+END_SRC
 
 When you usually (to get) home? — I (to get) at seven o'clock.
+- В заданий предложений два.
 #+BEGIN_SRC
   When do you usually get home?
 #+END_SRC
@@ -595,8 +623,10 @@ What your grandmother (to do) now? - She (to wash) her car.
 
 Your sister (to study) at university? – No, she (to work) at
 university.
+
+=-to study= это инфинитив.
 #+BEGIN_SRC
-Does your sister to study at university? - No, she works at
+Does your sister study at university? - No, she works at
 university
 #+END_SRC
 
@@ -606,3 +636,95 @@ weekend.
 #+BEGIN_SRC
 His friends aren't playing chess now. They plays chess at the weekend/
 #+END_SRC
+
+* Упражнения 3
+
+** Present Simple
+*** Составить вопрос с вопросительным словом в скобочках (по-научному это называется специальный вопрос)
+
+1 I live in London (Where)
+2 Kris speaks English very well (What language)
+3 His sister is a model (Who)
+4 I like my phone (What)
+5 Masha reads magazines every week (How often)
+6 This car is black (What color)
+7 Shops open at 9 o’clock (What time)
+8 She is pretty (who)
+9 Tom lies every time (How often)
+10 Marina wears skirts every day (what)
+
+** Present Continuos
+*** Составить вопрос с вопросительным словом в скобках
+
+1 My friends are doing housework (what)
+2 He is going to a shop (where)
+3 She is cooking a cake (what)
+4 She is waiting for a bus (what)
+5 Anna is wearing trousers (what)
+6 Masha is walking in a park (where)
+7 You are waiting for her (who)
+8 They are eating bananas (what)
+9 Mark is driving a car (what)
+10 You are watching TV (what)
+
+** Present Simple or Prenest Continuos?
+*** В каких предложениях используется present simple, а в каких present simple? Надпиши.
+
+1 I love you
+2 He doesn’t read
+3 Do you know?
+4 What are you doing?
+5 Yes, he does
+6 Is he a student?
+7 He is walking
+8 She is pretty
+9 It is my car
+10 It is raining
+
+*** Переведи предложения, используя present simple или present continuous
+
+1 Я хожу в школу пять дней в неделю.
+2 Что ты ешь? Я тоже хочу.
+3 Куда мы идем?
+4 Я не ем яйца
+5 Что ты планируешь делать на выходных?
+6 Ты смотришь телевизор по вечерам?
+7 Не могу разговарить, я сейчас готовлю.
+8 Не шуми, они спят
+
+** Present Perfect или Past Simple?
+*** Даны пары предложений. Определи время и поставь глагол в нужную форму
+
+
+1) I (know)  _______ her for six years.
+I (know) _______  him when I was at school.
+
+2) He (live) _______  in Paris from 1997 to 2000.
+He (live) _______  in New York since 2001.
+
+3) Where's Pete? I (not see) _______  him for ages.
+I (not see) _______  Pete last night.
+
+4) We (be) _______  at primary school from 1993 to 1998.
+We (be) _______ in this class since September.
+
+5) I (not watch) _______  this video yet.
+I (not watch) _______ a video at the weekend.
+
+*** Определи время, поставь глаголы в нужную форму
+
+1. I (have, just) ______   a nice pot of coffee. Would you like a cup?
+2. I (see, not) ______   Steve this morning yet.
+3.  Carol and I are old friends. I (know) ______   her since I (be)
+    ______   a freshman in high school.
+4.  Maria (have) ______   a lot of problems since she (come) ______
+    to this country.
+5.  I  (go) ______  to Paris in 2003 and 2006.
+6.  A car came round the corner and I (jump) ______   out of the way.
+7.  Don’t throw the paper away because I (not to read) ______   it
+    yet.
+8.  Is Jim going to eat lunch with us today? — No. He (eat) ______
+    (already).He (eat) ______   lunch an hour ago.
+9.  Since we (start) ______   doing this exercise, we (complete)
+    ______  some sentences.
+10. I (be) ______   never to Italy.
