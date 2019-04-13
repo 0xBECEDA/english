@@ -1,7 +1,6 @@
 #+STARTUP: showall indent hidestars
 
 * Упраженения 1
-
 ** Past Simple
 
 Построить утвердительное, отрицательное и вопросительное предложение:
@@ -87,7 +86,7 @@
   не происходит, например с =Mike wasn't a good friend=.
 
   - гугл подсказал тебе правильно. Потому что =to be= показывает
-  показывает единственное у нас число или множественное. Поэтому
+  единственное у нас число или множественное. Поэтому
   =I am= в прошлом станет =I was=, а =you/we/they are= станет
   =you/we/they were=
 
@@ -151,16 +150,16 @@
 - He drank some of the wine and ate several chunks of bread while he (to wait) for his
   dinner to come up.
 
- Хорошая попытка с вопросом. А теперь задай его себе по-русски:
- Он ждал ужин пока пил вино и жевал хлеб?
- В твоем варианте ты разорвал глагол и смысл потерялся.
+  Хорошая попытка с вопросом. А теперь задай его себе по-русски:
+  Он ждал ужин пока пил вино и жевал хлеб?
+  В твоем варианте ты разорвал глагол и смысл потерялся.
+  - Ok, понял
   #+BEGIN_EXAMPLE
     He drank some of wine and ate several chunks of bread while he was waiting for
     his dinner to come up.
     He drank some of wine and ate several chunks of bread while he wasn't waiting for
     his dinner to come up.
     Was he waiting dinner to come up, while drank some of wine and ate several chunks of bread?
-
   #+END_EXAMPLE
 
 - The family (to prepare) for the party.
@@ -249,8 +248,8 @@
   #+END_EXAMPLE
 
 - Tom … ever (visit) Disneyland?
-=ever= всегда будет между =have/hase= и основнм глаголом в
-перфектах. Да, аброкадабра.
+=ever= всегда будет между =have/has= и основным глаголом в
+перфектах. Да, абракадабра.
 
   #+BEGIN_EXAMPLE
     Has Tom ever visited Disnayland?
@@ -360,90 +359,250 @@ Want в их числе.
   #+END_EXAMPLE
 
 * Упражнения 2
-
 ** Present Perfect
+*** Составь утвердительное предложение из набора слов.
 
-Составь утвердительное предложение из набора слов. В гиде появилось дополнение
-специально для этого упражнения:
+В гиде появилось дополнение специально для этого упражнения:
 
-1    Buy/ we/ a new house
-2    She/ their/ feed/ already/ dog
-3    Never/ fly / I/ a plane
-4    This/ read/ Anna/ already/ book
-5    since 2010/ I/ in school / work
-6    they/ all homework/ not do/ yet
+Buy/ we/ a new house
+We have buy a new house
 
+She/ their/ feed/ already/ dog
+She has their feed dog already
 
-Составь вопросительную и отрицательную форму каждого предложения
+Never/ fly / I/ a plane
+I have never fly a plane
 
-1    He has already read this book
-2    They have bought a new car
-3    You have drunk three cups of tea today
-4    Jane has gone to England
-5    Mike has lost his wallet
-6    Anna has visited Paris several times
+This/ read/ Anna/ already/ book
+Anna has read book already
 
-Раскрой глаголы в скобках
+since 2010/ I/ in school / work
+I have work in school since 2010
 
-1    My parents (to know) each other for many years
-2    I (to drive) this car since 2015
-3    We already ( to do) all the housework
-4    She (to close) the door
-5    I (to read) a lot of magazines in the last few days
-6    Mike never (to be) to England before
+they/ all homework/ not do/ yet
+They haven't do all homework yet
+
+*** Составь вопросительную и отрицательную форму каждого предложения
+
+He has already read this book
+#+BEGIN_SRC
+  Has he read this book already?
+  Hi has not already read this book
+#+END_SRC
+
+They have bought a new car
+#+BEGIN_SRC
+  Have they bought a new car
+  They haven't bought a new car
+#+END_SRC
+
+You have drunk three cups of tea today
+#+BEGIN_SRC
+  Have you drunk three cups of tea today
+  Y haven't drunk three cups of tea today
+#+END_SRC
+
+Jane has gone to England
+#+BEGIN_SRC
+  Has Jane gone to England?
+  Jane hasnt gone to England
+#+END_SRC
+
+Mike has lost his wallet
+#+BEGIN_SRC
+  Has Mike lost his wallet?
+  Mike hasn't lost his wallet
+#+END_SRC
+
+Anna has visited Paris several times
+#+BEGIN_SRC
+  Has Anna visited Paris several times
+  Anna hasn't visited Paris several times
+#+END_SRC
+
+*** Раскрой глаголы в скобках
+
+My parents (to know) each other for many years
+#+BEGIN_SRC
+  My parents have known each other for many years
+#+END_SRC
+
+I (to drive) this car since 2015
+#+BEGIN_SRC
+  I have driven this car since 2015
+#+END_SRC
+
+We already ( to do) all the housework
+#+BEGIN_SRC
+  We already done all the housework
+#+END_SRC
+
+She (to close) the door
+#+BEGIN_SRC
+  She has closed the door
+#+END_SRC
+
+I (to read) a lot of magazines in the last few days
+#+BEGIN_SRC
+  I have read a lot of magasines in the last few days
+#+END_SRC
+
+Mike never (to be) to England before
+#+BEGIN_SRC
+  Mike never have been to England before
+#+END_SRC
 
 ** Past Simple
+
 Раскрыть скобки, употребив верную форму глагола, построить
 утвердительную, вопросительную и отрицательную формы предложения
 
-1    I (be) born in 1999
-2    We (meet) 2 months ago
-3    I (go) to the park at the weekend
-4    I (not catch) watch you say
-5    I (become) a director 4 years ago
-6    I (have) some chicken for breakfast
+I (be) born in 1999
+#+BEGIN_SRC
+  I was born in 1999
+  Did i born in 1999?
+  I wasn't born in 1999
+#+END_SRC
+
+We (meet) 2 months ago
+#+BEGIN_SRC
+  We met 2 monts ago
+  Did we meet 2 months ago
+  We didn't mett 2 months ago
+#+END_SRC
+
+I (go) to the park at the weekend
+#+BEGIN_SRC
+  I went to the park at the weekend
+  Did i go to the park at the weekend?
+  I didn't go to the park at the weekend
+#+END_SRC
+
+I (not catch) watch you say
+#+BEGIN_SRC
+  I cought watch you say
+  Did I catch watch you say?
+  I cought not watch you say
+#+END_SRC
+
+I (become) a director 4 years ago
+#+BEGIN_SRC
+  I became a director 4 years ago
+  Did I become a director 4 years ago?
+  I didn't become a director 4 years ago
+#+END_SRC
+
+I (have) some chicken for breakfast
+#+BEGIN_SRC
+  I had some chicken for breakfast
+  Did i have some chichen for breakfast?
+  I had not some chicken for breakfast
+#+END_SRC
 
 ** Неправильные глаголы:
 
 Определить, какая форма глагола, написать перевод и все три формы:
 
-
-1     Took
-2     Broken
-3     Done
-4     Sing
-5     Lose
-6     Win
-7     Make
-8     Swam
-9     Bought
-10    Drunk
-11    Flew
-12    Spoke
-13    Leave
-14    Seen
-15    worn
+| 1      | 2      | 3      |                    |
+|--------+--------+--------+--------------------|
+| Take   | Took   | Taken  | Брать              |
+| Break  | Broke  | Broken | Сломать            |
+| Do     | Did    | Done   | Делать             |
+| Sing   | Sang   | Sung   | Петь               |
+| Loose  | Lost   | Lost   | Терять/Проигрывать |
+| Win    | Won    | Won    | Выигрывать         |
+| Make   | Made   | Made   | Изготовлять        |
+| Swim   | Swam   | Swum   | Плавать            |
+| Buy    | Bought | Bought | Купить             |
+| Drank  | Drank  | Drunk  | Пить               |
+| Eat    | Ate    | Eaten  | Есть               |
+| Fly    | Flew   | Flown  | Летать             |
+| Speak  | Spoke  | Spoken | Говорить           |
+| Leave  | Left   | Left   | Покидать           |
+| See    | Saw    | Seen   | Видеть             |
+| Wear   | Wore   | Worn   | Носить             |
+| Catch  | Caught | Caught | Ловить             |
+| Become | Became | Become | Становиться        |
 
 ** Present Simple или Present Continuous?
 
 В обоих упражнениях раскрыть скобки, употребляя глаголы в нужном времени.
 
-1    They (not to drink) milk now. They (to eat) an ice-cream.
-2    I (not to drink) milk in the evening. I (not to like) it.
-3    Your sister (to do) her yoga now?
-4    My cousin (to go) to the gym every day.
-5    Where your daughter (to work)? – She (to work) at a hospital.
-6    Their children (not to sleep) now. They (to eat) lunch.
-7    Your father (to go) running in the morning?
-8    Look! The kitten (to play).
+They (not to drink) milk now. They (to eat) an ice-cream.
+#+BEGIN_SRC
+  They are drinking milk now. They eating an ice-cream
+#+END_SRC
 
+I (not to drink) milk in the evening. I (not to like) it.
+#+BEGIN_SRC
+  I drink milk in the evening. I don't like it.
+#+END_SRC
 
-1    The kitten always (to play) in the evening.
-2    When you usually (to get) home? — I (to get) at seven o'clock.
-3    His grandfather (not to work). He is retired.
-4    I usually (to get) up at eight o'clock in the morning.
-5    What your grandmother (to do) now? - She (to wash) her car.
-6    Your sister (to study) at university? – No, she (to work) at
-7    university.
-8    His friends (not to play) chess now. They (to play) chess at the
-     weekend.
+Your sister (to do) her yoga now?
+#+BEGIN_SRC
+  Your sister is going her yoga now?
+#+END_SRC
+
+My cousin (to go) to the gym every day.
+#+BEGIN_SRC
+  My cousing goes to the gym every day
+#+END_SRC
+
+Where your daughter (to work)? – She (to work) at a hospital.
+#+BEGIN_SRC
+  Where does your daughter works? - She works at a hospital
+#+END_SRC
+
+Their children (not to sleep) now. They (to eat) lunch.
+#+BEGIN_SRC
+  Their children are not speeping now. They are eating lunch.
+#+END_SRC
+
+Your father (to go) running in the morning?
+#+BEGIN_SRC
+  Your father goes running in the morning?
+#+END_SRC
+
+Look! The kitten (to play).
+#+BEGIN_SRC
+  Look. The kitten is playing
+#+END_SRC
+
+The kitten always (to play) in the evening.
+#+BEGIN_SRC
+  The kitten always plays in the evening
+#+END_SRC
+
+When you usually (to get) home? — I (to get) at seven o'clock.
+#+BEGIN_SRC
+  When do you usually get home?
+#+END_SRC
+
+His grandfather (not to work). He is retired.
+#+BEGIN_SRC
+  His grandfather doesn't work. He is retired.
+#+END_SRC
+
+I usually (to get) up at eight o'clock in the morning.
+#+BEGIN_SRC
+  I usually get up at eight o'clock in the morning
+#+END_SRC
+
+What your grandmother (to do) now? - She (to wash) her car.
+#+BEGIN_SRC
+  What is your grandmother doing now? - She is wasing her car.
+#+END_SRC
+
+Your sister (to study) at university? – No, she (to work) at
+university.
+#+BEGIN_SRC
+Does your sister to study at university? - No, she works at
+university
+#+END_SRC
+
+His friends (not to play) chess now. They (to play) chess at the
+weekend.
+
+#+BEGIN_SRC
+His friends aren't playing chess now. They plays chess at the weekend/
+#+END_SRC
