@@ -370,22 +370,22 @@ Want в их числе.
 В гиде появилось дополнение специально для этого упражнения:
 
 Buy/ we/ a new house
-We have buy a new house
+We have bought a new house
 
 She/ their/ feed/ already/ dog
-She has their feed dog already
+She has their fed dog already
 
 Never/ fly / I/ a plane
-I have never fly a plane
+I have never flown a plane
 
 This/ read/ Anna/ already/ book
 Anna has read book already
 
 since 2010/ I/ in school / work
-I have work in school since 2010
+I have worked in school since 2010
 
 they/ all homework/ not do/ yet
-They haven't do all homework yet
+They haven't done all homework yet
 
 *** Составь вопросительную и отрицательную форму каждого предложениe
 
@@ -603,7 +603,7 @@ The kitten always (to play) in the evening.
 When you usually (to get) home? — I (to get) at seven o'clock.
 - В заданий предложений два.
 #+BEGIN_SRC
-  When do you usually get home?
+  When do you usually get home? - I get at seven o'clock.
 #+END_SRC
 
 His grandfather (not to work). He is retired.
@@ -642,55 +642,181 @@ His friends aren't playing chess now. They plays chess at the weekend/
 ** Present Simple
 *** Составить вопрос с вопросительным словом в скобочках (по-научному это называется специальный вопрос)
 
-1 I live in London (Where)
-2 Kris speaks English very well (What language)
-3 His sister is a model (Who)
-4 I like my phone (What)
-5 Masha reads magazines every week (How often)
-6 This car is black (What color)
-7 Shops open at 9 o’clock (What time)
-8 She is pretty (who)
-9 Tom lies every time (How often)
-10 Marina wears skirts every day (what)
+I live in London (Where)
+#+BEGIN_EXAMPLE
+  Where do I live in London?
+#+END_EXAMPLE
+
+Kris speaks English very well (What language)
+#+BEGIN_EXAMPLE
+  What does Kris speak language very well?
+#+END_EXAMPLE
+
+His sister is a model (Who)
+#+BEGIN_EXAMPLE
+  Who is his sister?
+#+END_EXAMPLE
+
+I like my phone (What)
+#+BEGIN_EXAMPLE
+  What do I like my phone?
+#+END_EXAMPLE
+
+Masha reads magazines every week (How often)
+#+BEGIN_EXAMPLE
+  How often does Masha read magazines?
+#+END_EXAMPLE
+
+This car is black (What color)
+#+BEGIN_EXAMPLE
+  What color is this car?
+#+END_EXAMPLE
+
+Shops open at 9 o’clock (What time)
+#+BEGIN_EXAMPLE
+  What time were open shops?
+#+END_EXAMPLE
+
+She is pretty (who)
+#+BEGIN_EXAMPLE
+  Who is pretty?
+#+END_EXAMPLE
+
+Tom lies every time (How often)
+#+BEGIN_EXAMPLE
+  How often does Tom lie?
+#+END_EXAMPLE
+
+Marina wears skirts every day (what)
+#+BEGIN_EXAMPLE
+  What does Marina wears?
+#+END_EXAMPLE
+
 
 ** Present Continuos
 *** Составить вопрос с вопросительным словом в скобках
 
-1 My friends are doing housework (what)
-2 He is going to a shop (where)
-3 She is cooking a cake (what)
-4 She is waiting for a bus (what)
-5 Anna is wearing trousers (what)
-6 Masha is walking in a park (where)
-7 You are waiting for her (who)
-8 They are eating bananas (what)
-9 Mark is driving a car (what)
-10 You are watching TV (what)
+My friends are doing housework (what)
+#+BEGIN_EXAMPLE
+  What are my friends doing?
+#+END_EXAMPLE
+
+He is going to a shop (where)
+#+BEGIN_EXAMPLE
+
+#+END_EXAMPLE
+
+She is cooking a cake (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+She is waiting for a bus (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Anna is wearing trousers (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Masha is walking in a park (where)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+You are waiting for her (who)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+They are eating bananas (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Mark is driving a car (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+You are watching TV (what)
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 ** Present Simple or Prenest Continuos?
 *** В каких предложениях используется present simple, а в каких present simple? Надпиши.
 
-1 I love you
-2 He doesn’t read
-3 Do you know?
-4 What are you doing?
-5 Yes, he does
-6 Is he a student?
-7 He is walking
-8 She is pretty
-9 It is my car
-10 It is raining
+I love you
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+He doesn’t read
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Do you know?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+What are you doing?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Yes, he does
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Is he a student?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+He is walking
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+She is pretty
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+It is my car
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+It is raining
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 *** Переведи предложения, используя present simple или present continuous
 
-1 Я хожу в школу пять дней в неделю.
-2 Что ты ешь? Я тоже хочу.
-3 Куда мы идем?
-4 Я не ем яйца
-5 Что ты планируешь делать на выходных?
-6 Ты смотришь телевизор по вечерам?
-7 Не могу разговарить, я сейчас готовлю.
-8 Не шуми, они спят
+Я хожу в школу пять дней в неделю.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Что ты ешь? Я тоже хочу.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Куда мы идем?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Я не ем яйца
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Что ты планируешь делать на выходных?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Ты смотришь телевизор по вечерам?
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Не могу разговарить, я сейчас готовлю.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
+Не шуми, они спят
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 ** Present Perfect или Past Simple?
 *** Даны пары предложений. Определи время и поставь глагол в нужную форму
@@ -698,18 +824,32 @@ His friends aren't playing chess now. They plays chess at the weekend/
 
 1) I (know)  _______ her for six years.
 I (know) _______  him when I was at school.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 2) He (live) _______  in Paris from 1997 to 2000.
 He (live) _______  in New York since 2001.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 3) Where's Pete? I (not see) _______  him for ages.
 I (not see) _______  Pete last night.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 4) We (be) _______  at primary school from 1993 to 1998.
 We (be) _______ in this class since September.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
+
 
 5) I (not watch) _______  this video yet.
 I (not watch) _______ a video at the weekend.
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
 
 *** Определи время, поставь глаголы в нужную форму
 
