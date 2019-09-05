@@ -728,3 +728,39 @@ I (not watch) _______ a video at the weekend.
 9.  Since we (start) ______   doing this exercise, we (complete)
     ______  some sentences.
 10. I (be) ______   never to Italy.
+
+* Article
+
+*** переведи глаголы и поставь в нужной временной форме
+
+In this tutorial, I (научу) you how to (писать) your own virtual
+machine (VM) that (может исполнять) assembly language programs, such as my
+friend's 2048 or my Roguelike. If you (знаешь) how to program, but
+(хотел бы достичь) a deeper understanding of what (происходит) on inside a
+computer and better (понимать) how programming languages work, then
+this project is for you. Writing your own VM (может звучать) a little scary,
+but I (обещать) that you (найдете) it to be surprisingly simple and
+enlightening.
+
+The final code (является) about 250 lines of C. All you (нужно знать) is how to
+(читать) basic C or C++ and how to (делать) binary arithmetic. (чтобы
+построить) and (запустить) the code, you (понадобится быть) on a Unix
+system  (including macOS). A few Unix APIs (использованы) for
+configuring the terminal input and display, but these are not
+essential to the main code. (Contributions for
+Windows support are welcome.)
+
+Note: This VM is a literate program. This means you (читаете)
+the source code right now! Each piece of code from the project
+(будет показан и объяснен) thoroughly, so you (можете быть) sure nothing
+is left out. The final code (был создан) by "weaving" the blocks of
+code together.
+
+*** представь себе, что ты составитель этого туториала, и текущий текст на введение,
+*** а заключение. Переведи весь текст в прошлое c сохранением временных отношений,
+*** т.е. чтоб я могла понять, что какое-то действие было раньше другого, какое-то
+*** длилось, а какое-то свершилось один раз.
+*** Подсказка: все времена откатятся: Present Simple станет Past Simple, Past Simple
+*** станет Pasr Perfect, будущее будет выражаться с помощью конструкции would + глагол
+*** в первой форме.
+=>
